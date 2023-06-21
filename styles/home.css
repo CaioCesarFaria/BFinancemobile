@@ -1,11 +1,11 @@
-.home {
-    background-image: url(/assets/becky_inicial.svg);
-    background-repeat: no-repeat;
-}
+
 .container__home {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-image: url(/assets/becky_inicial.svg);
+    background-repeat: no-repeat;
+    background-size: 100vw;
 }
 .home__img {
     height: 128px;
