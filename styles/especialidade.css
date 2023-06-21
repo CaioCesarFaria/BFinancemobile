@@ -1,0 +1,26 @@
+.especialidades {
+    display: flex;
+    justify-content: center;
+    padding: 2em 2em 3em 2em;
+}
+.especialidades__icones {
+    display: flex;
+    justify-content: space-around;
+}
+.especialidades__card {
+    display: flex;
+    flex-direction: column;
+    width: 75px;
+    height: 90px;
+}
+.texto__descricao {
+    padding: .5em 1em;
+    font-family: var(--fonte);
+    font-size: 8px;
+    font-weight: 700;
+    color: var(--azul);
+    text-align: center;
+}
+.icones__icon {
+    height: 65.39px;
+}
