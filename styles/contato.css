@@ -29,7 +29,7 @@ a:any-link {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 2.5em;
+    margin: 2.5em 2.5em 5em 2.5em;
 }
 .empresa__img {
     height:100px;
