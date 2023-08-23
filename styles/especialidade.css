@@ -24,3 +24,6 @@
 .icones__icon {
     height: 65.39px;
 }
+.icones__icon:hover{
+    scale: 1.1;
+}
